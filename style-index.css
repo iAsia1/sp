@@ -4,11 +4,7 @@ body {
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 200px;
-}
-
-img {
-    width: 100px;
-    height: 100px;
+    text-align: center;
 }
 
 .heading {
