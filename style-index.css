@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+body {
+    background: url(bg.gif);
+    background-color: rgba(0, 0, 0, 0.685);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.heading {
+    font-size: 60px;
+    float: left;
+    padding-right: 20px;
+    color: rgb(210, 32, 97);
+}
+
+a {
+    color: rgb(32, 88, 210);
+}
+
